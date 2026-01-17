@@ -1,0 +1,11 @@
+/* PrimeReact Configuration */
+@import "primereact/resources/themes/lara-light-indigo/theme.css";
+@import "primereact/resources/primereact.min.css";
+@import "primeicons/primeicons.css";
+@import "primeflex/primeflex.css";
+
+body {
+    margin: 0;
+    font-family: var(--font-family);
+    background-color: #f8f9fa;
+}
