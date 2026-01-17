@@ -394,13 +394,8 @@ MIT
 
 ## 👨‍💻 Author
 
-Built as an SDE assignment demonstrating:
-- Full-stack development
-- AI integration
-- System design
-- Problem-solving
-- Clean code practices
-
+Rishika Rathore
+Software Developer
 ---
 
 **Note**: This is a demo/assignment project. For production use, add authentication, rate limiting, comprehensive testing, and enhanced security measures.
